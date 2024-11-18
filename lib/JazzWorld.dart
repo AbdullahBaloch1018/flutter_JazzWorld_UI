@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-// var arrIcon = [Icons.call,Icons.add,Icons.sms,Icons.network_cell,Icons.call,Icons.add,Icons.sms,Icons.network_cell,];
-// var arrText1 = ["Packages","Daily Rewards", "Support", "whats New", "jazz Tunes", "View History","Jazz World", "History"];
 class jazz_World extends StatelessWidget {
   jazz_World({super.key});
 
@@ -21,7 +19,7 @@ class jazz_World extends StatelessWidget {
     "Support",
     "whats New",
     "jazz Tunes",
-    "View History",
+    "History",
     "Jazz World",
     "History"
   ];
@@ -124,7 +122,7 @@ class jazz_World extends StatelessWidget {
                                         padding: EdgeInsets.only(
                                             left: 18.0, right: 8),
                                         child: Text(
-                                          "03000791018",
+                                          "+92 123-12347",
                                           style: TextStyle(
                                             color: Colors.white,
                                           ),
