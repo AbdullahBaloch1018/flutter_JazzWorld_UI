@@ -1,6 +1,6 @@
 # jazz World
 
-A new Flutter project Of jazz Wordl in which I am creating the UI of jazz world. 
+A new Flutter project of jazz World in which I am creating the UI of jazz world. 
 
 ## Getting Started
 
